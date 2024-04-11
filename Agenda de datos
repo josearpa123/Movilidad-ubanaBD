@@ -1,0 +1,38 @@
+create table clientes(
+id_clientes serial not null,
+nombre varchar(50)not null,
+apellidos varchar(50)not null,
+telefono int null,
+email varchar(60)not null,
+direccion varchar(60)not null
+);
+
+alter table clientes
+add constraint id_clientes_PK primary key(id_clientes);
+
+
+create table productos(
+id_productos serial not null,
+precio money not null,
+Descripcion varchar(100)not null
+);
+
+alter table productos
+add constraint id_productos_PK primary key(id_productos);
+
+create table creditos(
+id_creditos serial not null,
+id_clientes serial not null,
+id_productos serial not null,
+cuotas varchar(100) not null,
+estado_cuenta money null,
+abonos money null);
+
+alter table creditos
+add constraint id_creditos_PK primary key(id_creditos);
+
+alter table creditos
+add constraint id_clientes_FK foreign key(id_clientes)references clientes(id_clientes);
+
+alter table creditos
+add constraint id_productos_FK foreign key(id_productos)references productos(id_productos);
