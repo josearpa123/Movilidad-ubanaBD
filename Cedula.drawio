@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T20:34:45.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="QJZm_rQUOvNymb0Q5Xe7" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T20:35:18.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="79UcxERawNF_mUNy6YRP" version="24.2.3" type="github">
   <diagram name="Página-1" id="eT7_xmxgGcc_MmhDwV57">
-    <mxGraphModel dx="3657" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,6 +581,9 @@
             <mxPoint x="380" y="180" as="sourcePoint" />
             <mxPoint x="480" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ckMknmuMf_bJUqx4477i-43" value="Jose David Arias Pantoja" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="565" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
