@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Movilidad-UB@localhost" uuid="a62b2477-fe77-4a97-84f9-fd263ec8112f">
+    <data-source source="LOCAL" name="Movilidad-UB@localhost" group="Movilidad-UB2" uuid="a62b2477-fe77-4a97-84f9-fd263ec8112f">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -13,6 +13,13 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/.idea/dataSources/a62b2477-fe77-4a97-84f9-fd263ec8112f/storage_v2/_src_/database/Movilidad-UB.RdUafw</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="DataGripProjects" uuid="fcd88073-138e-4e83-b686-2a04d70e28d7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/..</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
