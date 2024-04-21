@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="1d5415dd-a4ea-42df-b7c3-89c6a9c92b77" name="Movilidad-UB@localhost Mapping">
+      <data-sources db="a62b2477-fe77-4a97-84f9-fd263ec8112f" ddl="695588de-f813-4350-a375-87d5816a65fe" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="695588de-f813-4350-a375-87d5816a65fe" />
+          <option name="name" value="Movilidad-UB@localhost (DDL)" />
+          <option name="dbmsName" value="POSTGRES" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
