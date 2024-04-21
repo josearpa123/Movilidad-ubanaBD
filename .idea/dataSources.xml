@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Movilidad-UB@localhost" uuid="7700906c-702c-4642-9392-f8f79847d2e3">
+    <data-source source="LOCAL" name="Movilidad-UB@localhost" uuid="a62b2477-fe77-4a97-84f9-fd263ec8112f">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/Movilidad-UB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Movilidad-UB.RdUafw" uuid="94496fa3-6af4-40d8-82b5-77001c7ba5b7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/.idea/dataSources/a62b2477-fe77-4a97-84f9-fd263ec8112f/storage_v2/_src_/database/Movilidad-UB.RdUafw</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
